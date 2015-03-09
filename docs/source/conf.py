@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'GenSel.jl'
-copyright = u'2015, Hao Cheng, Jian Zeng, Dorian Garrick, Rohan Fernando'
+copyright = u'2015, GS'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -200,7 +200,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'GenSeljl.tex', u'GenSel.jl Documentation',
-   u'Hao Cheng, Jian Zeng, Dorian Garrick, Rohan Fernando', 'manual'),
+   u'GS', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -230,7 +230,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'genseljl', u'GenSel.jl Documentation',
-     [u'Hao Cheng, Jian Zeng, Dorian Garrick, Rohan Fernando'], 1)
+     [u'GS'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -244,7 +244,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'GenSeljl', u'GenSel.jl Documentation',
-   u'Hao Cheng, Jian Zeng, Dorian Garrick, Rohan Fernando', 'GenSeljl', 'One line description of project.',
+   u'GS', 'GenSeljl', 'One line description of project.',
    'Miscellaneous'),
 ]
 
