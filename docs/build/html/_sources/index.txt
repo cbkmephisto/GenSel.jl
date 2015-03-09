@@ -1,20 +1,18 @@
-GenSel.jl documentation
-=======================
+GenSel.jl Package Documentation
+===============================
 
-About header
-============
-
-here is some text to explain
-
-    print $123
+The GenSel package provides tools for Bayesian multiple-regerssion methods for genome-wide association study (GWAS) and 
+genomic prediction.
 
 
-Guide
-^^^^^
+
+Contents
+========
 
 .. toctree::
    :maxdepth: 2
-        
+   
+   about     
    getStarted
    Model
    license
